@@ -2,7 +2,7 @@ api: 2
 core: 8.x
 
 includes:
-  - production.make
+  - ./production.make
 
 projects:
   devel:

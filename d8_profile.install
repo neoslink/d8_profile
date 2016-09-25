@@ -3,4 +3,3 @@
  * @file
  * Install, update and uninstall functions for the profilename install profile.
  */
-//\Drupal::configFactory()->getEditable('node.settings')->set('use_admin_theme', TRUE)->save(TRUE);

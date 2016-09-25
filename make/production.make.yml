@@ -5,5 +5,7 @@ projects:
   admin_toolbar:
     version: "1.17"
     subdir: "contrib"
-
+  features:
+    version: "3.0-beta9"
+    subdir: "contrib"
  # drush make production.make.yml

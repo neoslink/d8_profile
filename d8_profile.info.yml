@@ -1,6 +1,6 @@
 name: D8 Profile test
 type: profile
-description: 'Custom profile for test'
+description: Custom.
 core: 8.x
 
 dependencies:

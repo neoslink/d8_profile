@@ -40,4 +40,5 @@ dependencies:
   - automated_cron
 
 themes:
+  - bartik
   - seven

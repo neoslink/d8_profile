@@ -1,0 +1,12 @@
+api: 2
+core: 8.x
+
+includes:
+  - production.make
+
+projects:
+  devel:
+    version: "1.0-alpha1"
+    subdir: "contrib"
+
+ # drush make develop.make.yml
